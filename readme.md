@@ -219,15 +219,7 @@
   </a> -->
 </p>
 
-<div style="display: flex; align-items: center; justity-content: space-between; margin-top: 40px;">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suleymanali&show_icons=true&locale=en&layout=compact" alt="suleymanali" />
-  </p>
-
-  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suleymanali&show_icons=true&locale=en" alt="suleymanali" /></p> -->
-
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleymanali&" alt="suleymanali" />
-  </p>
-</div>
-
+<p style="margin-top: 40px;">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=suleymanali&show_icons=true&locale=en&layout=compact" alt="suleymanali" width="400" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suleymanali&" alt="suleymanali" width="400" />
+</p>
