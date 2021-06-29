@@ -65,8 +65,8 @@
     <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="vuejs" width="40" height="40"/>
   </a>
   <!-- Bootstrap Vue -->
-  <a href="https://bootstrap-vue.org/" target="_blank">
-    <img src="https://github.com/bootstrap-vue/bootstrap-vue/raw/master/static/banner.png" alt="vuejs" width="40" height="40"/>
+  <a href="https://bootstrap-vue.org/" target="_blank" style="display: inline-block; width: 40px;">
+    <img src="https://github.com/bootstrap-vue/bootstrap-vue/raw/master/static/banner.png" alt="vuejs"/>
   </a>
   <!-- Vuetify -->
   <!-- <a href="https://vuetifyjs.com/en/" target="_blank">
