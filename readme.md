@@ -66,7 +66,7 @@
   </a>
   <!-- Bootstrap Vue -->
   <a href="https://bootstrap-vue.org/" target="_blank" style="display: inline-block; width: 40px;">
-    <img src="https://github.com/bootstrap-vue/bootstrap-vue/raw/master/static/banner.png" alt="vuejs"/>
+    <img src="https://github.com/bootstrap-vue/bootstrap-vue/raw/master/static/banner.png" alt="vuejs" style="max-witdh: 100%"/>
   </a>
   <!-- Vuetify -->
   <!-- <a href="https://vuetifyjs.com/en/" target="_blank">
