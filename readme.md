@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymanali&label=Profile%20views&color=0e75b6&style=flat" alt="suleymanali" /> </p> -->
 
-- 👨‍💻 All of my projects are available at [SuleymanAliyev.com](SuleymanAliyev.com)
+- 👨‍💻 All of my projects are available at [SuleymanAliyev.com](https://SuleymanAliyev.com)
 
 - 📫 How to reach me **suleymanali76@gmail.com**
 
