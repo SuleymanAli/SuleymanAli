@@ -227,7 +227,7 @@
   </a> -->
 </p>
 
-<p style="margin-top: 40px;">
+<!-- <p style="margin-top: 40px;">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=suleymanali&show_icons=true&locale=en&layout=compact" alt="suleymanali" width="400" />
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suleymanali&" alt="suleymanali" width="400" />
-</p>
+</p> -->
