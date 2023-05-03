@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solomon</h1>
-<h3 align="center" style="margin-bottom: 40px;">Freelance Front End Developer - Figma To Html | Vue.js</h3>
+<h3 align="center" style="margin-bottom: 40px;">Front End Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymanali&label=Profile%20views&color=0e75b6&style=flat" alt="suleymanali" /> </p> -->
 
