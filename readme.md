@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Solomon</h1>
-<h3 align="center" style="margin-bottom: 40px;">Front End Developer</h3>
+<!-- 1. Banner -->
+![Banner - Solomon](https://github.com/SuleymanAli/SuleymanAli/assets/29483724/646d2617-e6d0-4092-b7b4-14729a0f4e12)
+
+<!-- 2. Hero -->
+<div style="display: flex; justify-content: center;">
+  <p align="left">Hi 👋, I'm Solomon</p>
+  <a align="right" href="https://www.codewars.com/users/SuleymanAli/badges/micro">
+    <img src="https://www.codewars.com/users/SuleymanAli/badges/small" target="_blank">
+  </a>
+</div>
+<!-- <h3 align="center" style="margin-bottom: 40px;">Front End Developer</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymanali&label=Profile%20views&color=0e75b6&style=flat" alt="suleymanali" /> </p> -->
 
@@ -11,11 +20,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- Front End -->
-<h4 align="left">Front End:</h4>
-
-<p>
-  <!-- HTML -->
+<!-- 4. Skillset -->
+<table>
+  
+<tr>
+  <td><h4 align="left">Front End:</h4></td>
+  <td>
+    <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -47,12 +58,7 @@
   <a href="https://storybook.js.org/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" alt="bootstrap" width="40" height="40"/>
   </a>
-  <br />
-  <!-- Tailwind -->
-  <!-- <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a> -->
-  <!-- JavaScript -->
+    <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -97,13 +103,14 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a> -->
 </p>
+</td>
+</tr>
 
 <!-- Design Tools -->
-<h4>
-  Design Tools:
-</h4>
-
-<p>
+<tr>
+  <td><h4 align="left">Design Tools:</h4></td>
+  <td>
+  <p>
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -121,86 +128,101 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
   </a>
 </p>
+</td>
+</tr>
 
+<tr>
 <!-- Back End -->
-<h4>
-  Back End:
-</h4>
-
-<p>
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <!-- Laravel -->
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <!-- WordPress -->
-  <a href="https://wordpress.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
-  </a>
-  <!-- Node -->
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <!-- Express -->
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- Database -->
-<h4>
-  Database:
-</h4>
-
-<p>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <!-- MySql -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
-
+  <td><h4 align="left">Back End:</h4></td>
+  <td>
+    <p>
+      <!-- PHP -->
+      <a href="https://www.php.net" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+      </a>
+      <!-- Laravel -->
+      <a href="https://laravel.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+      </a>
+      <!-- WordPress -->
+      <a href="https://wordpress.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
+      </a>
+      <!-- Node -->
+      <a href="https://nodejs.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+      </a>
+      <!-- Express -->
+      <a href="https://expressjs.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+      </a>
+    </p>
+  </td>
+  </tr>
+  
+  <tr>
+  <!-- Database -->
+  <td>
+    <h4>
+      Database:
+    </h4>
+  </td>
+  <td>
+    <p>
+    <!-- MongoDB -->
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <!-- MySql -->
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+  </p>
+  </td>
+<tr/>
 
 <!-- Software -->
-<h4>
-  Software & Tools:
-</h4>
-
-<p>
-  <!-- Ubuntu -->
-  <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ubuntu/ubuntu-plain.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <!-- Sublime Merge -->
-  <a href="https://www.sublimemerge.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/3800914/54345403-0bc27000-4654-11e9-8ca4-0f417a70819e.png" alt="postman" width="40" height="40"/>
-  </a>
-  <!-- Zapier -->
-  <!-- <a href="https://zapier.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-  </a> -->
-</p>
+<tr>  
+  <td>
+    <h4>
+      Software & Tools:
+    </h4>
+  </td>
+  <td>
+    <p>
+    <!-- Ubuntu -->
+    <a href="https://ubuntu.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ubuntu/ubuntu-plain.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <!-- VS Code -->
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <!-- Postman -->
+    <a href="https://postman.com" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>
+    <!-- Sublime Merge -->
+    <a href="https://www.sublimemerge.com/" target="_blank">
+      <img src="https://user-images.githubusercontent.com/3800914/54345403-0bc27000-4654-11e9-8ca4-0f417a70819e.png" alt="postman" width="40" height="40"/>
+    </a>
+    <!-- Zapier -->
+    <!-- <a href="https://zapier.com" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
+    </a> -->
+  </p>
+</td>
+</tr>
 
 <!-- Other -->
-<h4>
-  Knowledgeable:
-</h4>
-
-<p>
+<tr>
+  <td>
+    <h4>
+      Knowledgeable:
+    </h4>
+  </td>
+  <td>
+    <p>
   <!-- Electron.js -->
   <!-- <a href="https://www.electronjs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
@@ -226,8 +248,22 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a> -->
 </p>
+  </td>
+</tr>
 
-<!-- <p style="margin-top: 40px;">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=suleymanali&show_icons=true&locale=en&layout=compact" alt="suleymanali" width="400" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suleymanali&" alt="suleymanali" width="400" />
-</p> -->
+</table>
+
+<br />
+
+<table>
+  <tr>
+    <th>
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=suleymanali&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="suleymanali" />
+    </th>
+<!--      <p style="margin-top: 40px;"> -->
+<!--       </p>        -->
+    <th>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleymanali&theme=vision-friendly-dark&hide_border=true" alt="suleymanali" />
+    </th>
+  </tr>
+</table>
