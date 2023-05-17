@@ -1,26 +1,33 @@
-<!-- 1. Banner -->
+<!-- 1. BANNER -->
 ![Banner - Solomon](https://github.com/SuleymanAli/SuleymanAli/assets/29483724/646d2617-e6d0-4092-b7b4-14729a0f4e12)
 
-<!-- 2. Hero -->
-<div style="display: flex; justify-content: center;">
-  <p align="left">Hi 👋, I'm Solomon</p>
-  <a align="right" href="https://www.codewars.com/users/SuleymanAli/badges/micro">
-    <img src="https://www.codewars.com/users/SuleymanAli/badges/small" target="_blank">
+<!-- 2. HERO - TITLE -->
+<h2 align="center" width="100%">
+  <a href="https://github.com/suleymanali">
+  <img align="left" src="https://komarev.com/ghpvc/?username=suleymanali&style=for-the-badge">
   </a>
-</div>
-<!-- <h3 align="center" style="margin-bottom: 40px;">Front End Developer</h3> -->
+  Hi 👋, I'm Solomon
+  <a href="https://www.codewars.com/users/SuleymanAli">
+    <img align="right" src="https://www.codewars.com/users/SuleymanAli/badges/micro" target="_blank">
+  </a>
+</h2>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymanali&label=Profile%20views&color=0e75b6&style=flat" alt="suleymanali" /> </p> -->
+<br>
 
-- 👨‍💻 All of my projects are available at [SuleymanAliyev.com](https://SuleymanAliyev.com)
+<!-- 3. CONTENT -->
+<p>
+  - 👨‍💻 All of my projects are available at [SuleymanAliyev.com](https://SuleymanAliyev.com)
+</p>
+<p>
+  - 📫 How to reach me **suleymanali76@gmail.com**
+</p>
 
-- 📫 How to reach me **suleymanali76@gmail.com**
+<!-- <div style="margin-bottom: 40px;"></div> -->
 
-<div style="margin-bottom: 40px;"></div>
+<br>
 
+<!-- 4. SKILLSET -->
 <h3 align="left">Languages and Tools:</h3>
-
-<!-- 4. Skillset -->
 <table>
   
 <tr>
@@ -253,17 +260,30 @@
 
 </table>
 
-<br />
+<br><br>
 
+<!-- 5.STATS -->
 <table>
   <tr>
-    <th>
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=suleymanali&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="suleymanali" />
+    <th align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suleymanali&layout=donut&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="suleymanali" />
     </th>
-<!--      <p style="margin-top: 40px;"> -->
-<!--       </p>        -->
-    <th>
+    <th align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleymanali&theme=vision-friendly-dark&hide_border=true" alt="suleymanali" />
-    </th>
+    </th>   
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=suleymanali&repo=directus&show_icons=true&theme=vision-friendly-dark&hide_border=true">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=suleymanali&show_icons=true&theme=vision-friendly-dark&hide_border=true" >
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=suleymanali&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" target="_blank">
+    </td>
+  </tr>
+
 </table>
