@@ -274,16 +274,18 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=suleymanali&repo=directus&show_icons=true&theme=vision-friendly-dark&hide_border=true">
+      <a href="https://github.com/SuleymanAli/directus" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=suleymanali&repo=directus&show_icons=true&theme=vision-friendly-dark&hide_border=true">
+      </a>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=suleymanali&show_icons=true&theme=vision-friendly-dark&hide_border=true" >
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td colspan="2">
       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=suleymanali&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" target="_blank">
     </td>
-  </tr>
+  </tr> -->
 
 </table>
