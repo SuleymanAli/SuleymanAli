@@ -15,14 +15,14 @@
 <br>
 
 <!-- 3. CONTENT -->
-<p>
-  - 👨‍💻 All of my projects are available at [SuleymanAliyev.com](https://SuleymanAliyev.com)
-</p>
-<p>
-  - 📫 How to reach me **suleymanali76@gmail.com**
-</p>
-
-<!-- <div style="margin-bottom: 40px;"></div> -->
+<ul>
+  <li>
+    👨‍💻 All of my projects are available at <a href="https://SuleymanAliyev.com" target="blank">SuleymanAliyev.com</a> 
+  </li>
+  <li>
+    📫 How to reach me <b>suleymanali76@gmail.com</b>
+  </li>
+</ul>
 
 <br>
 
