@@ -6,7 +6,7 @@
   <a href="https://github.com/suleymanali">
   <img align="left" src="https://komarev.com/ghpvc/?username=suleymanali&style=for-the-badge">
   </a>
-  Hi 👋, I'm Solomon
+  Hi, I'm Suleyman <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
   <a href="https://www.codewars.com/users/SuleymanAli" target="_blank">
     <img align="right" src="https://www.codewars.com/users/SuleymanAli/badges/micro" target="_blank">
   </a>
@@ -15,42 +15,35 @@
 <br>
 
 <!-- 3. CONTENT -->
-
+3 Years Experienced Frond End Developer Who Specialize In Front End Technologies
 <p>
+</p>
 
 
-    <!-- 1. Intro
-    - Upwork + Images (Animatable badge)
-    - Codewars -->
+<!-- 1. Intro
+- Upwork + Images (Animatable badge)
+- Codewars -->
+<!-- Intro: Provide a brief introduction about yourself, your background, and your interests. You can also mention your main programming languages or technologies that you specialize in. -->
 
-  <p>
 
-
-    2. Features
-    - Examples - Vue, Tailwind, PHP (Laravel + WP)
-    - Senario sat !!!
-    Volkwagen - https://volkswagenauto.az/
-    Travel - https://amburan.com/
-    Atria - https://www.atriaseniorliving.com/
-
-    3. What To Do
-    Directus CONTRIBUTOR
-
-    4. Action
-    Come to ME - UW, Discord, AND WP
-    <a href="https://discordapp.com/users/1103268210930896896">Discord</a>
-
-  
-  Intro: Provide a brief introduction about yourself, your background, and your interests. You can also mention your main programming languages or technologies that you specialize in.
-
-  3 Years Experienced Frond End Developer Who Specialize In Vue.js Technologies
-
+<!-- 2. Features
+- Examples - Vue, Tailwind, PHP (Laravel + WP)
+- Senario sat !!!
+Volkwagen - https://volkswagenauto.az/
+Travel - https://amburan.com/
+Atria - https://www.atriaseniorliving.com/
 My Features: Highlight your key skills, expertise, or unique qualities that make you stand out. You can mention specific programming languages, frameworks, tools, or technologies you are proficient in. It's a good idea to include badges or icons representing these skills.
 
+
+3. What To Do
+Directus CONTRIBUTOR
 What To Do: Explain how others can engage with your repository or project. This section can include instructions on how to install, configure, and run your project. You can also provide examples or code snippets to demonstrate usage.
 
-Call To Action: Encourage users to take action, such as contributing to your project, providing feedback, or reaching out for collaboration opportunities. You can also provide links to your social media profiles or a personal website.
-  </p>
+4. Action
+Come to ME - UW, Discord, AND WP
+<a href="https://discordapp.com/users/1103268210930896896">Discord</a> -->
+<!-- Call To Action: Encourage users to take action, such as contributing to your project, providing feedback, or reaching out for collaboration opportunities. You can also provide links to your social media profiles or a personal website.
+   -->
   <!-- <ul>
     <li>
       👨‍💻 All of my projects are available at <a href="https://SuleymanAliyev.com" target="blank">SuleymanAliyev.com</a> 
@@ -60,245 +53,86 @@ Call To Action: Encourage users to take action, such as contributing to your pro
     </li>
   </ul> -->
 </p>
+<!-- <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p> -->
 
+<p>
+  <a href="https://volkswagenauto.az" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Baku-volkswagen-151F5D?&style=for-the-badge&logo=volkswagen&logoColor=white" alt="Volkswagen" />
+  </a>
+  <a href="https://www.atriaseniorliving.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Atria-46661D?&style=for-the-badge&&logoColor=white" alt="Volkswagen" />
+  </a>
+</p>
 
 <br>
 
 <!-- 4. SKILLSET -->
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
+<table width="100%">
 
   <!-- Front End -->
   <tr>
-    <td><h4 align="left">Front End:</h4></td>
+    <!-- <td><h4 align="left">Front End:</h4></td> -->
     <td>
-        <!-- HTML -->
-        <a href="https://www.w3.org/html/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-        </a>
-        <!-- Pug -->
-        <a href="https://pugjs.org" target="_blank">
-          <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-        </a>
-        <!-- CSS -->
-        <a href="https://www.w3schools.com/css/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-        </a>
-        <!-- Sass -->
-        <a href="https://sass-lang.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-        </a>
-        <!-- TailwindCSS -->
-        <a href="https://tailwindcss.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
-        </a>
-        <!-- Bootstrap -->
-        <a href="https://getbootstrap.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-        </a>
-        <!-- Bem -->
-        <a href="https://en.bem.info/" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/223412?s=200&v=4" alt="bootstrap" width="40" height="40"/>
-        </a>
-        <!-- StoryBook -->
-        <a href="https://storybook.js.org/" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" alt="bootstrap" width="40" height="40"/>
-        </a>
-          <!-- JavaScript -->
+        <!-- JavaScript -->
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+          <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> -->
+          <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="javascript" />
         </a>
-        <!-- React.js -->
-        <!-- <a href="https://reactjs.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-        </a> -->
         <!-- Vue -->
-        <a href="https://vuejs.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> -->
+          <img src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D" alt="vue" />
         </a>
-        <!-- Vuex -->
-        <a href="https://vuex.vuejs.org/" target="_blank">
-          <img src="icons/vuex.png" alt="vuejs" width="40" height="40"/>
+        <!-- Nuxt -->
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> -->
+          <img src="https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&labelColor=black&logo=nuxt.js&logoColor=00DC82" alt="nuxt" />
         </a>
-        <!-- Bootstrap Vue -->
-        <a href="https://bootstrap-vue.org/" target="_blank">
-          <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_k2Wjg5J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/bootstrap-vue/bootstrap-vue/dev/static/logo.svg" alt="vuejs" width="40" height="40"/>
-        </a>
-        <!-- Vuetify -->
-        <!-- <a href="https://vuetifyjs.com/en/" target="_blank">
-          <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
-        </a> -->
-        <!-- Nuxt.js -->
-        <a href="https://nuxtjs.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/>
-        </a>
-        <!-- Gulp.js -->
-        <!-- <a href="https://gulpjs.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
-        </a> -->
-        <!-- Babel -->
-        <!-- <a href="https://babeljs.io/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-        </a> -->
-        <!-- Webpack -->
-        <!-- <a href="https://webpack.js.org" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-        </a> -->
-        <!-- Git -->
-        <!-- <a href="https://git-scm.com/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-        </a> -->
-    </td>
-  </tr>
-
-  <!-- Design Tools -->
-  <tr>
-    <td><h4 align="left">Design Tools:</h4></td>
-    <td>
-    <p>
-    <!-- Figma -->
-    <a href="https://www.figma.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <!-- Photoshop -->
-    <a href="https://www.photoshop.com/en" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-    <!-- Skecth -->
-    <a href="https://www.sketch.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
-    </a>
-    <!-- Adobe XD -->
-    <a href="https://www.adobe.com/products/xd.html" target="_blank">
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-    </a>
-  </p>
-  </td>
-  </tr>
-
-  <!-- Back End -->
-  <tr>
-    <td>
-      <h4 align="left">Back End:</h4>
-    </td>
-    <td>
-      <p>
-        <!-- PHP -->
-        <a href="https://www.php.net" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-        </a>
-        <!-- Laravel -->
-        <a href="https://laravel.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-        </a>
-        <!-- WordPress -->
-        <a href="https://wordpress.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
+        <!-- TypeScript -->
+        <a href="https://tailwindcss.com/" target="_blank">
+          <img src=https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="typescript" />
         </a>
         <!-- Node -->
-        <a href="https://nodejs.org" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> -->
+          <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="javascript" />
         </a>
-        <!-- Express -->
-        <a href="https://expressjs.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-    
-  <!-- Database -->
-  <tr>
-    <td>
-      <h4>
-        Database:
-      </h4>
-    </td>
-    <td>
-      <p>
-      <!-- MongoDB -->
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-      </a>
-      <!-- MySql -->
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-    </p>
-    </td>
-  <tr/>
-
-  <!-- Software -->
-  <tr>  
-    <td>
-      <h4>
-        Software & Tools:
-      </h4>
-    </td>
-    <td>
-      <p>
-      <!-- Ubuntu -->
-      <a href="https://ubuntu.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ubuntu/ubuntu-plain.svg" alt="docker" width="40" height="40"/>
-      </a>
-      <!-- VS Code -->
-      <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="docker" width="40" height="40"/>
-      </a>
-      <!-- Postman -->
-      <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-      </a>
-      <!-- Sublime Merge -->
-      <a href="https://www.sublimemerge.com/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/3800914/54345403-0bc27000-4654-11e9-8ca4-0f417a70819e.png" alt="postman" width="40" height="40"/>
-      </a>
-      <!-- Zapier -->
-      <!-- <a href="https://zapier.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-      </a> -->
-    </p>
-  </td>
-  </tr>
-
-  <!-- Other -->
-  <tr>
-    <td>
-      <h4>
-        Knowledgeable:
-      </h4>
-    </td>
-    <td>
-      <p>
-        <!-- Electron.js -->
-        <!-- <a href="https://www.electronjs.org" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+        <!-- HTML -->
+        <!-- <a href="https://www.w3.org/html/" target="_blank">
+          <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=#1572B6&logo=html5&logoColor=" alt="html5" />
         </a> -->
-        <!-- Linux -->
-        <a href="https://www.linux.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-        </a>
-        <!-- Bash -->
-        <a href="https://www.gnu.org/software/bash/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-        </a>
-        <!-- Docker -->
-        <a href="https://www.docker.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-        </a>
-        <!-- Heroku -->
-        <a href="https://heroku.com" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-        </a>
-        <!-- Selenium -->
-        <!-- <a href="https://www.selenium.dev" target="_blank">
-          <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+        <!-- Pug
+        <a href="https://pugjs.org" target="_blank">
+          <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
         </a> -->
-      </p>
+        <!-- CSS -->
+        <!-- <a href="https://www.w3schools.com/css/" target="_blank">
+          <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=css3&logoColor=" alt="css3" />
+        </a> -->
+        <!-- Sass -->
+        <!-- <a href="https://sass-lang.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+        </a> -->
+        <!-- TailwindCSS -->
+        <!-- <a href="https://tailwindcss.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+        </a> -->
+        <!-- Bootstrap -->
+        <!-- <a href="https://getbootstrap.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+        </a> -->
+        <!-- Bem -->
+        <!-- <a href="https://en.bem.info/" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/223412?s=200&v=4" alt="bootstrap" width="40" height="40"/>
+        </a> -->
+        <!-- StoryBook -->
+        <!-- <a href="https://storybook.js.org/" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" alt="bootstrap" width="40" height="40"/>
+        </a> -->
     </td>
   </tr>
-</table>
 
 <br><br>
 
@@ -328,9 +162,22 @@ Call To Action: Encourage users to take action, such as contributing to your pro
     </td>
   </tr> -->
 </table>
+<br><br>
 
 <!-- 6.ACTIONS -->
-<p>
-  <a href="https://discordapp.com/users/1103268210930896896">
-  </a>
-</p>
+<div>
+  <p align="center">
+  Reach Out ME
+  </p>
+  <p align="center">
+    <a href="https://twitter.com/SuleymanAli76" target="_blank">
+      <img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://discordapp.com/users/1103268210930896896" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <a href=https://www.linkedin.com/in/suleyman-aliyev" target="_blank">
+      <img alt="Volkswagen" src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+</div>
