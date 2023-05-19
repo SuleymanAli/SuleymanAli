@@ -41,7 +41,7 @@ What To Do: Explain how others can engage with your repository or project. This 
 
 <!-- 4. SKILLSET -->
 <div>
-  <p align="left">
+  <div>
     <h3 >Top Projects:</h3>
     <p >
       <a href="https://volkswagenauto.az" target="_blank" style="margin-right: 10px;">
@@ -51,9 +51,9 @@ What To Do: Explain how others can engage with your repository or project. This 
         <img src="https://img.shields.io/badge/-Atria-46661D?&style=for-the-badge&&logoColor=white" alt="Volkswagen" />
       </a>
     </p>
-  </p>
+  </div>
 
-  <p align="right">
+  <div>
     <h3>Languages and Tools:</h3>
     <p>
     <!-- JavaScript -->
@@ -77,7 +77,7 @@ What To Do: Explain how others can engage with your repository or project. This 
         <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="javascript" />
       </a>
     </p>
-  </p>
+  </div>
 </div>
 
 <br>
