@@ -55,85 +55,43 @@ Come to ME - UW, Discord, AND WP
 </p>
 <!-- <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p> -->
 
-<p>
-  <a href="https://volkswagenauto.az" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Baku-volkswagen-151F5D?&style=for-the-badge&logo=volkswagen&logoColor=white" alt="Volkswagen" />
-  </a>
-  <a href="https://www.atriaseniorliving.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Atria-46661D?&style=for-the-badge&&logoColor=white" alt="Volkswagen" />
-  </a>
-</p>
+
 
 <br>
 
 <!-- 4. SKILLSET -->
-<h3 align="left">Languages and Tools:</h3>
-
-<table width="100%">
-
-  <!-- Front End -->
-  <tr>
-    <!-- <td><h4 align="left">Front End:</h4></td> -->
-    <td>
-        <!-- JavaScript -->
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> -->
-          <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="javascript" />
-        </a>
-        <!-- Vue -->
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> -->
-          <img src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D" alt="vue" />
-        </a>
-        <!-- Nuxt -->
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> -->
-          <img src="https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&labelColor=black&logo=nuxt.js&logoColor=00DC82" alt="nuxt" />
-        </a>
-        <!-- TypeScript -->
-        <a href="https://tailwindcss.com/" target="_blank">
-          <img src=https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="typescript" />
-        </a>
-        <!-- Node -->
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> -->
-          <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="javascript" />
-        </a>
-        <!-- HTML -->
-        <!-- <a href="https://www.w3.org/html/" target="_blank">
-          <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=#1572B6&logo=html5&logoColor=" alt="html5" />
-        </a> -->
-        <!-- Pug
-        <a href="https://pugjs.org" target="_blank">
-          <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-        </a> -->
-        <!-- CSS -->
-        <!-- <a href="https://www.w3schools.com/css/" target="_blank">
-          <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=css3&logoColor=" alt="css3" />
-        </a> -->
-        <!-- Sass -->
-        <!-- <a href="https://sass-lang.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-        </a> -->
-        <!-- TailwindCSS -->
-        <!-- <a href="https://tailwindcss.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
-        </a> -->
-        <!-- Bootstrap -->
-        <!-- <a href="https://getbootstrap.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-        </a> -->
-        <!-- Bem -->
-        <!-- <a href="https://en.bem.info/" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/223412?s=200&v=4" alt="bootstrap" width="40" height="40"/>
-        </a> -->
-        <!-- StoryBook -->
-        <!-- <a href="https://storybook.js.org/" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" alt="bootstrap" width="40" height="40"/>
-        </a> -->
-    </td>
-  </tr>
-
+  <h3 align="left">Top Projects:</h3>
+  <p>
+    <a href="https://volkswagenauto.az" target="_blank" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/Baku-volkswagen-151F5D?&style=for-the-badge&logo=volkswagen&logoColor=white" alt="Volkswagen" />
+    </a>
+    <a href="https://www.atriaseniorliving.com/" target="_blank">
+      <img src="https://img.shields.io/badge/-Atria-46661D?&style=for-the-badge&&logoColor=white" alt="Volkswagen" />
+    </a>
+  </p>
+  <h3 align="left">Languages and Tools:</h3>
+  <p>
+  <!-- JavaScript -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="javascript" />
+    </a>
+    <!-- Vue -->
+    <a href="https://vuejs.org/guide/introduction.html" target="_blank">
+      <img src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D" alt="vue" />
+    </a>
+    <!-- Nuxt -->
+    <a href="https://nuxt.com/" target="_blank">
+      <img src="https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&labelColor=black&logo=nuxt.js&logoColor=00DC82" alt="nuxt" />
+    </a>
+    <!-- TypeScript -->
+    <!-- <a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank">
+      <img src=https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=TypeScript&logoColor=3178C6" alt="typescript" />
+    </a> -->
+    <!-- Node -->
+    <a href="https://nodejs.org/en" target="_blank">
+      <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="javascript" />
+    </a>
+  </p>
 <br><br>
 
 <!-- 5.STATS -->
@@ -153,10 +111,10 @@ Come to ME - UW, Discord, AND WP
       </a>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=suleymanali&show_icons=true&theme=vision-friendly-dark&hide_border=true" >
+      <img src="https://github-readme-stats.vercel.app/api?username=suleymanali&show_icons=true&theme=vision-friendly-dark&hide_border=true&hide=stars" >
     </td>
   </tr>
-<!--   <tr>
+  <!-- <tr>
     <td colspan="2">
       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=suleymanali&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" target="_blank">
     </td>
@@ -165,11 +123,10 @@ Come to ME - UW, Discord, AND WP
 <br><br>
 
 <!-- 6.ACTIONS -->
-<div>
-  <p align="center">
-  Reach Out ME
-  </p>
-  <p align="center">
+  <h3>
+    Reach Out ME
+  </h3>
+  <p>
     <a href="https://twitter.com/SuleymanAli76" target="_blank">
       <img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
@@ -180,4 +137,3 @@ Come to ME - UW, Discord, AND WP
       <img alt="Volkswagen" src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
-</div>
