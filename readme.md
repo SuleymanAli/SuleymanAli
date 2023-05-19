@@ -18,10 +18,15 @@
 <!-- 3. CONTENT -->
 <!-- Intro: Provide a brief introduction about yourself, your background, and your interests. You can also mention your main programming languages or technologies that you specialize in. -->
 <!-- 3.1 Intro -->
-<!-- <p> -->
-- 👨‍💻 Frond End Developer Over 3 Years Experienced.
-- 🥈 Top-Rated Freelancer On [Upwork](https://www.upwork.com/freelancers/~014b38a24567af03b5).
-<!-- </p> -->
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=suleymanali&show_icons=true&theme=vision-friendly-dark&hide_border=true&hide=stars"  align="right">
+<ul>
+  <li>👨‍💻 Front-End Developer With Over 3 Years Of Experience.</li>
+  <li>🥈 Top-Rated Freelancer On <a href="https://www.upwork.com/freelancers/~014b38a24567af03b5" target="_blank">Upwork</a>.</li>
+  <li>📖 Open Source Contributor.</li>
+  <li>👑 Middle Age History Enthusiast.</li>
+</ul>
+</p>
 
 
 <!-- 3.2. Features -->
@@ -83,31 +88,31 @@ What To Do: Explain how others can engage with your repository or project. This 
 <br>
 
 <!-- 5.STATS -->
-<table>
+<!-- <table>
   <tr>
     <th align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suleymanali&layout=donut&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="suleymanali" />
-    </th>
-    <!-- <th align="center">
+    </th> 
+    <<th align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleymanali&theme=vision-friendly-dark&hide_border=true" alt="suleymanali" />
     </th>   
   </tr>
-  <tr> -->
-    <!-- <td align="center">
+  <tr> 
+    <td align="center">
       <a href="https://github.com/SuleymanAli/directus" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=suleymanali&repo=directus&show_icons=true&theme=vision-friendly-dark&hide_border=true">
       </a>
-    </td> -->
+    </td> 
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=suleymanali&show_icons=true&theme=vision-friendly-dark&hide_border=true&hide=stars" >
     </td>
-  </tr>
-  <!-- <tr>
+  </tr> 
+  <tr>
     <td colspan="2">
       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=suleymanali&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" target="_blank">
     </td>
-  </tr> -->
-</table>
+  </tr> 
+</table> -->
 
 <br>
 
