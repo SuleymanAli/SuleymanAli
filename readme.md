@@ -1,4 +1,5 @@
 <!-- 1. BANNER -->
+
 ![Banner - Solomon](https://github.com/SuleymanAli/SuleymanAli/assets/29483724/646d2617-e6d0-4092-b7b4-14729a0f4e12)
 
 <!-- 2. HERO - TITLE -->
@@ -15,47 +16,30 @@
 <br>
 
 <!-- 3. CONTENT -->
-3 Years Experienced Frond End Developer Who Specialize In Front End Technologies
-<p>
-</p>
-
-
-<!-- 1. Intro
-- Upwork + Images (Animatable badge)
-- Codewars -->
 <!-- Intro: Provide a brief introduction about yourself, your background, and your interests. You can also mention your main programming languages or technologies that you specialize in. -->
+<!-- 3.1 Intro -->
+<!-- <p> -->
+- 👨‍💻 Frond End Developer Over 3 Years Experienced.
+- 🥈 Top-Rated Freelancer On [Upwork](https://www.upwork.com/freelancers/~014b38a24567af03b5).
+<!-- </p> -->
 
 
-<!-- 2. Features
-- Examples - Vue, Tailwind, PHP (Laravel + WP)
+<!-- 3.2. Features -->
+<!-- - Examples - Vue, Tailwind, PHP (Laravel + WP)
 - Senario sat !!!
 Volkwagen - https://volkswagenauto.az/
 Travel - https://amburan.com/
 Atria - https://www.atriaseniorliving.com/
-My Features: Highlight your key skills, expertise, or unique qualities that make you stand out. You can mention specific programming languages, frameworks, tools, or technologies you are proficient in. It's a good idea to include badges or icons representing these skills.
+My Features: Highlight your key skills, expertise, or unique qualities that make you stand out. You can mention specific programming languages, frameworks, tools, or technologies you are proficient in. It's a good idea to include badges or icons representing these skills. -->
 
 
-3. What To Do
+<!-- 3. What To Do
 Directus CONTRIBUTOR
-What To Do: Explain how others can engage with your repository or project. This section can include instructions on how to install, configure, and run your project. You can also provide examples or code snippets to demonstrate usage.
+What To Do: Explain how others can engage with your repository or project. This section can include instructions on how to install, configure, and run your project. You can also provide examples or code snippets to demonstrate usage. -->
 
-4. Action
-Come to ME - UW, Discord, AND WP
-<a href="https://discordapp.com/users/1103268210930896896">Discord</a> -->
-<!-- Call To Action: Encourage users to take action, such as contributing to your project, providing feedback, or reaching out for collaboration opportunities. You can also provide links to your social media profiles or a personal website.
-   -->
-  <!-- <ul>
-    <li>
-      👨‍💻 All of my projects are available at <a href="https://SuleymanAliyev.com" target="blank">SuleymanAliyev.com</a> 
-    </li>
-    <li>
-      📫 How to reach me <b>suleymanali76@gmail.com</b>
-    </li>
-  </ul> -->
-</p>
-<!-- <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p> -->
-
-
+<!-- 5. Bottom -->
+<!-- </p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p> -->
 
 <br>
 
@@ -100,16 +84,16 @@ Come to ME - UW, Discord, AND WP
     <th align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suleymanali&layout=donut&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="suleymanali" />
     </th>
-    <th align="center">
+    <!-- <th align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleymanali&theme=vision-friendly-dark&hide_border=true" alt="suleymanali" />
     </th>   
   </tr>
-  <tr>
-    <td align="center">
+  <tr> -->
+    <!-- <td align="center">
       <a href="https://github.com/SuleymanAli/directus" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=suleymanali&repo=directus&show_icons=true&theme=vision-friendly-dark&hide_border=true">
       </a>
-    </td>
+    </td> -->
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=suleymanali&show_icons=true&theme=vision-friendly-dark&hide_border=true&hide=stars" >
     </td>
@@ -123,8 +107,9 @@ Come to ME - UW, Discord, AND WP
 <br><br>
 
 <!-- 6.ACTIONS -->
+<!-- Call To Action: Encourage users to take action, such as contributing to your project, providing feedback, or reaching out for collaboration opportunities. You can also provide links to your social media profiles or a personal website. -->
   <h3>
-    Reach Out ME
+    Reach Out Me
   </h3>
   <p>
     <a href="https://twitter.com/SuleymanAli76" target="_blank">
