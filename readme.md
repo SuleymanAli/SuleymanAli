@@ -37,46 +37,50 @@ My Features: Highlight your key skills, expertise, or unique qualities that make
 Directus CONTRIBUTOR
 What To Do: Explain how others can engage with your repository or project. This section can include instructions on how to install, configure, and run your project. You can also provide examples or code snippets to demonstrate usage. -->
 
-<!-- 5. Bottom -->
-<!-- </p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p> -->
-
 <br>
 
 <!-- 4. SKILLSET -->
-  <h3 align="left">Top Projects:</h3>
-  <p>
-    <a href="https://volkswagenauto.az" target="_blank" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/Baku-volkswagen-151F5D?&style=for-the-badge&logo=volkswagen&logoColor=white" alt="Volkswagen" />
-    </a>
-    <a href="https://www.atriaseniorliving.com/" target="_blank">
-      <img src="https://img.shields.io/badge/-Atria-46661D?&style=for-the-badge&&logoColor=white" alt="Volkswagen" />
-    </a>
+<div>
+  <p align="left">
+    <h3 >Top Projects:</h3>
+    <p >
+      <a href="https://volkswagenauto.az" target="_blank" style="margin-right: 10px;">
+        <img src="https://img.shields.io/badge/Baku-volkswagen-151F5D?&style=for-the-badge&logo=volkswagen&logoColor=white" alt="Volkswagen" />
+      </a>
+      <a href="https://www.atriaseniorliving.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Atria-46661D?&style=for-the-badge&&logoColor=white" alt="Volkswagen" />
+      </a>
+    </p>
   </p>
-  <h3 align="left">Languages and Tools:</h3>
-  <p>
-  <!-- JavaScript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="javascript" />
-    </a>
-    <!-- Vue -->
-    <a href="https://vuejs.org/guide/introduction.html" target="_blank">
-      <img src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D" alt="vue" />
-    </a>
-    <!-- Nuxt -->
-    <a href="https://nuxt.com/" target="_blank">
-      <img src="https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&labelColor=black&logo=nuxt.js&logoColor=00DC82" alt="nuxt" />
-    </a>
-    <!-- TypeScript -->
-    <!-- <a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank">
-      <img src=https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=TypeScript&logoColor=3178C6" alt="typescript" />
-    </a> -->
-    <!-- Node -->
-    <a href="https://nodejs.org/en" target="_blank">
-      <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="javascript" />
-    </a>
+
+  <p align="right">
+    <h3>Languages and Tools:</h3>
+    <p>
+    <!-- JavaScript -->
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="javascript" />
+      </a>
+      <!-- Vue -->
+      <a href="https://vuejs.org/guide/introduction.html" target="_blank">
+        <img src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D" alt="vue" />
+      </a>
+      <!-- Nuxt -->
+      <a href="https://nuxt.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&labelColor=black&logo=nuxt.js&logoColor=00DC82" alt="nuxt" />
+      </a>
+      <!-- TypeScript -->
+      <!-- <a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank">
+        <img src=https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=TypeScript&logoColor=3178C6" alt="typescript" />
+      </a> -->
+      <!-- Node -->
+      <a href="https://nodejs.org/en" target="_blank">
+        <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="javascript" />
+      </a>
+    </p>
   </p>
-<br><br>
+</div>
+
+<br>
 
 <!-- 5.STATS -->
 <table>
@@ -104,21 +108,30 @@ What To Do: Explain how others can engage with your repository or project. This 
     </td>
   </tr> -->
 </table>
-<br><br>
+
+<br>
 
 <!-- 6.ACTIONS -->
 <!-- Call To Action: Encourage users to take action, such as contributing to your project, providing feedback, or reaching out for collaboration opportunities. You can also provide links to your social media profiles or a personal website. -->
-  <h3>
-    Reach Out Me
-  </h3>
-  <p>
-    <a href="https://twitter.com/SuleymanAli76" target="_blank">
-      <img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://discordapp.com/users/1103268210930896896" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-    <a href=https://www.linkedin.com/in/suleyman-aliyev" target="_blank">
-      <img alt="Volkswagen" src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </p>
+<h3>
+  Reach Out Me
+</h3>
+<p>
+  <a href="https://twitter.com/SuleymanAli76" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/1103268210930896896" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href=https://www.linkedin.com/in/suleyman-aliyev" target="_blank">
+    <img alt="Volkswagen" src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
+<!-- 5. Bottom -->
+<!-- </p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p> -->
