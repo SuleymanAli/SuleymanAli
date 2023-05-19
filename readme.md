@@ -21,10 +21,10 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=suleymanali&show_icons=true&theme=vision-friendly-dark&hide_border=true&hide=stars"  align="right">
 <ul>
-  <li>👨‍💻 Front-End Developer With Over 3 Years Of Experience.</li>
-  <li>🥈 Top-Rated Freelancer On <a href="https://www.upwork.com/freelancers/~014b38a24567af03b5" target="_blank">Upwork</a>.</li>
-  <li>📖 Open Source Contributor.</li>
-  <li>👑 Middle Age History Enthusiast.</li>
+  <li>👨‍💻 Middle Front-End Developer</li>
+  <li>🥈 Top-Rated Freelancer On <a href="https://www.upwork.com/freelancers/~014b38a24567af03b5" target="_blank">Upwork</a></li>
+  <li>📖 Open Source Contributor</li>
+  <li>👑 Middle Age History Enthusiast</li>
 </ul>
 </p>
 
@@ -85,7 +85,7 @@ What To Do: Explain how others can engage with your repository or project. This 
   </div>
 </div>
 
-<br>
+<!-- <br> -->
 
 <!-- 5.STATS -->
 <!-- <table>
