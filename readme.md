@@ -115,7 +115,11 @@ What To Do: Explain how others can engage with your repository or project. This 
 </table> -->
 
 <br>
-
+<!-- 
+// Codewars
+7ky - 3 point
+4kyu - 32 pount
+ -->
 <!-- 6.ACTIONS -->
 <!-- Call To Action: Encourage users to take action, such as contributing to your project, providing feedback, or reaching out for collaboration opportunities. You can also provide links to your social media profiles or a personal website. -->
 <h3>
